@@ -1,6 +1,6 @@
 # alexa-skill-exchange-calculator
 custom nodejs alexa skill with 3rd party API connection to calculate USD/EUR to TRY on amazon alexa devices. runs on amazon lambda with nodejs 6.10
-this is not using alexa-sdk. I recommend to continue with alexa-sdk.
+this is not using alexa-sdk. I recommend to [continue with alexa-sdk version.](https://github.com/eercanayar/alexa-skill-exchange-calculator-sdk)
 
 This skill have only feature that connects another API and gets and uses the data on it.
 

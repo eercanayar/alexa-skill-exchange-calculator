@@ -4,6 +4,6 @@ this is not using alexa-sdk. I recommend to [continue with alexa-sdk version.](h
 
 This skill have only feature that connects another API and gets and uses the data on it.
 
-**Visit wiki and learn more about Alexa Skill Development and this sample skill; [Alexa Skills Kit (ASK) Development Tutorial](https://github.com/eercanayar/alexa-skills-ask-tutorial/wiki/Alexa-Skills-Kit-(ASK)-Development-Tutorial)**
+**Visit wiki and learn more about Alexa Skill Development and read detailed section for this sample skill; [Alexa-Skills-Kit-(ASK)-Development-Tutorial#step-1-simple-exchange-calculator-skill-with-nodejs](https://github.com/eercanayar/alexa-skills-ask-tutorial/wiki/Alexa-Skills-Kit-(ASK)-Development-Tutorial#step-1-simple-exchange-calculator-skill-with-nodejs)**
 
 *eercan @Accenture Istanbul*

@@ -1,0 +1,3 @@
+calculateExchange exchange {Amount} {Currency}
+calculateExchange calculate {Amount} {Currency}
+calculateExchange convert {Amount} {Currency}

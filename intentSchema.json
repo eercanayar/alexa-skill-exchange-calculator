@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "calculateExchange",
+      "slots": [
+        {
+          "name": "Amount",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Currency",
+          "type": "CURRENCY_LIST"
+        }
+      ]
+    }
+  ]
+}
